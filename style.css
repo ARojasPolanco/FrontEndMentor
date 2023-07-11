@@ -225,7 +225,7 @@ header p{
 
 /* 1160px */
 
-@media (min-width: 1160){
+@media (min-width: 1160px){
     body{
         background-size: 500px;
     }
